@@ -1,0 +1,4 @@
+This is  git demo.
+this is github demo too.
+
+okay now show the consept of stage.
